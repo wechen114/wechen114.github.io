@@ -35,7 +35,7 @@ display:flex;
  margin-left: -8px;
  border: double #878787 20px;
  border-radius: 25px;
- 
+ margin-top: 110px;
  }
  #header2 {
     display: flex;
@@ -65,8 +65,11 @@ font-size: 50px;
 font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 font-weight: 200px;
 }
-img{
-
-    length:10px;
-    height: auto;
+#img1{
+height: 280px;
+width: auto;
+ 
+position: absolute;
+right: 10%;
+top: 699px;
 }
