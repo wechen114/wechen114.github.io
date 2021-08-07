@@ -70,6 +70,18 @@ height: 280px;
 width: auto;
  
 position: absolute;
-right: 10%;
+right: 18px;
 top: 699px;
+border-radius: 15px;
+}
+#theme{
+    border: none;
+    background: none;
+    background-color:#89d487;
+font-size: 25px;
+color: white;
+ 
+}
+#indiv{
+
 }
